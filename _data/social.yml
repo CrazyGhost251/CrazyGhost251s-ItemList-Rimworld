@@ -21,9 +21,9 @@ tumblr:
 twitter:
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
-tiktok:
+youtube: http://www.youtube.com/@crazyghost251
+twitch: crazyghost251
+tiktok: CrazyGhost251
 
 # Share button options
 share:
@@ -36,3 +36,4 @@ share:
   linkedin:
   wordpress:
   email: true
+
