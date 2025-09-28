@@ -68,7 +68,7 @@ mods:
   author: true
 
 # Build settings
-remote_theme: CrazyGhost251/type-on-strap
+theme: type-on-strap
 markdown: kramdown
 sass:
   style: compressed
